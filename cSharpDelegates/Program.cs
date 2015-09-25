@@ -18,6 +18,20 @@ namespace cSharpDelegates
             calculator addnumbers = new calculator(myUtilObject.addMethod);
             calculator subnumbers = new calculator(myUtilObject.subMethod);
 
+            Console.Write("enter addnumbers number:");
+            i = int.Parse(Console.ReadLine());
+
+            Console.Write("enter addnumbers number:");
+            j = int.Parse(Console.ReadLine());
+
+            addnumbers(i, j);
+            subnumbers(i, j);
+
+            Console.Write("\nadding two values: " + addnumbers(i,j));
+            Console.Write("\subtracting two values: " + addnumbers(i, j));
+            
+            Console.Read();
+
         }
     }
 }
