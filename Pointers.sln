@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointers", "Pointers\Pointers.csproj", "{3D16FEB6-B40B-46B4-B49A-38C7C9FEF760}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpDelegates", "cSharpDelegates\cSharpDelegates.csproj", "{AFBADD7A-FF77-476D-8AE7-51A85662307D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpDelegates_MultiCast", "cSharpDelegates_MultiCast\cSharpDelegates_MultiCast.csproj", "{9F47A90A-413B-4310-96A5-AA0642E48421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3D16FEB6-B40B-46B4-B49A-38C7C9FEF760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D16FEB6-B40B-46B4-B49A-38C7C9FEF760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D16FEB6-B40B-46B4-B49A-38C7C9FEF760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBADD7A-FF77-476D-8AE7-51A85662307D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBADD7A-FF77-476D-8AE7-51A85662307D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBADD7A-FF77-476D-8AE7-51A85662307D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBADD7A-FF77-476D-8AE7-51A85662307D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F47A90A-413B-4310-96A5-AA0642E48421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F47A90A-413B-4310-96A5-AA0642E48421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F47A90A-413B-4310-96A5-AA0642E48421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F47A90A-413B-4310-96A5-AA0642E48421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

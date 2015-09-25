@@ -28,7 +28,7 @@ namespace cSharpDelegates
             subnumbers(i, j);
 
             Console.Write("\nadding two values: " + addnumbers(i,j));
-            Console.Write("\subtracting two values: " + addnumbers(i, j));
+            Console.Write("\nsubtracting two values: " + addnumbers(i, j));
             
             Console.Read();
 
