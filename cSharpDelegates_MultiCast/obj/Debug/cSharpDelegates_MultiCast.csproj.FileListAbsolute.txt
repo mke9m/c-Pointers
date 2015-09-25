@@ -1,0 +1,5 @@
+C:\Users\20504560\Documents\Visual Studio 2013\Projects\Pointers\cSharpDelegates_MultiCast\bin\Debug\cSharpDelegates_MultiCast.exe.config
+C:\Users\20504560\Documents\Visual Studio 2013\Projects\Pointers\cSharpDelegates_MultiCast\bin\Debug\cSharpDelegates_MultiCast.exe
+C:\Users\20504560\Documents\Visual Studio 2013\Projects\Pointers\cSharpDelegates_MultiCast\bin\Debug\cSharpDelegates_MultiCast.pdb
+C:\Users\20504560\Documents\Visual Studio 2013\Projects\Pointers\cSharpDelegates_MultiCast\obj\Debug\cSharpDelegates_MultiCast.exe
+C:\Users\20504560\Documents\Visual Studio 2013\Projects\Pointers\cSharpDelegates_MultiCast\obj\Debug\cSharpDelegates_MultiCast.pdb
