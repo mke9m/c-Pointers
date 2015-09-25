@@ -1,0 +1,6 @@
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\bin\Debug\Pointers.exe.config
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\bin\Debug\Pointers.exe
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\bin\Debug\Pointers.pdb
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\obj\Debug\Pointers.csprojResolveAssemblyReference.cache
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\obj\Debug\Pointers.exe
+c:\users\20504560\documents\visual studio 2013\Projects\Pointers\Pointers\obj\Debug\Pointers.pdb
